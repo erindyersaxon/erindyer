@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @erindyer
 - 👀 I’m interested in developing data analysis and data science skills
-- 🌱 I’m currently learning data analysis via Google's Data Analysis Certificate
+- 🌱 I’m currently learning data analysis via Google's Data Analysis Certificate & Institute of Coding Data Science Bootcamp (University of Northumbria)
 - 💞️ I’m looking to collaborate on newbie projects
 - 📫 How to reach me @erindyer on Twitter
 
